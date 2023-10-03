@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontendmediasocial/static/css/main.e33690e5.css",
+    "main.js": "/frontendmediasocial/static/js/main.c91b97fb.js",
+    "index.html": "/frontendmediasocial/index.html",
+    "main.e33690e5.css.map": "/frontendmediasocial/static/css/main.e33690e5.css.map",
+    "main.c91b97fb.js.map": "/frontendmediasocial/static/js/main.c91b97fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e33690e5.css",
+    "static/js/main.c91b97fb.js"
+  ]
+}
